@@ -52,6 +52,7 @@ Step 3:
 
 ## Contributors
 Developer: Saad Hussain Syed, VIU.
+
 Specification: Dr. Humayun Kabir, Instructor, VIU.
 
 ## License
